@@ -1,0 +1,1 @@
+console.log('%cmade with manic obsession', 'color: red');
