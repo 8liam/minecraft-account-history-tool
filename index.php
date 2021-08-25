@@ -35,7 +35,6 @@
                         <a class="nav-link" href="#">home <span class="sr-only">(current)</span></a>
                     </li>
                     
--->
                     
                 </ul>
                 <span class="navbar-text">
