@@ -1,4 +1,4 @@
-# sparkle.gg
+# Minecraft Account History Tool
 ##### A Minecraft Account History Tool
 Created in 2020.
 
