@@ -1,4 +1,4 @@
-# Minecraft Account History Tool
+# Minecraft Account History Tool (**NOW DEPRECATED**)
 ##### A Minecraft Account History Tool written with HTML and PHP for the sparkle.gg website (down)
 Created in 2020.
 
@@ -12,3 +12,5 @@ Tool is capable of tracking Minecraft Capes currently active to the account (Opt
 
 
 Last updated in 2020.
+
+**Is now deprecated**
